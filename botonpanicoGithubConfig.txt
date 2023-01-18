@@ -1,1 +1,1 @@
-dirpri=168.194.207.66;prtpri=12002;dirsec=168.194.207.66;prtsec=12002;periodo=5;telefono=+86151124669;entrantepri=+85256443612;entrantesec=+86151124669;enespera=5;backupsms=2615451946;
+dirpri=168.194.207.66;prtpri=12002;dirsec=168.194.207.66;prtsec=12002;periodo=5;telefono=+86151124669;entrantepri=+85256443612;entrantesec=+86151124669;enespera=5;backupsms=2613017998;
