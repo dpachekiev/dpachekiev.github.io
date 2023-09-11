@@ -1,1 +1,1 @@
-dirpri=119.8.153.174;prtpri=11015;dirsec=119.8.153.174;prtsec=11015;periodo=15;telefono=+86151124669;entrantepri=+56224823000;entrantesec=+56957091581;enespera=;backupsms=+5491140814609;
+dirpri=119.8.153.174;prtpri=11015;dirsec=119.8.153.174;prtsec=11015;periodo=15;telefono=+86151124669;entrantepri=+56224823000;entrantesec=+56957091581;enespera=2;backupsms=+5491140814609;
